@@ -88,7 +88,7 @@ header button{
   font-size: 1.8rem;
 }
 
-@media screen and (max-width:920px) {
+@media screen and (max-width:1200px) {
   .grid {
     grid-template-columns: repeat(5, 1fr);
 
