@@ -75,6 +75,19 @@ header button{
   opacity: 0.5;
 }
 
+.footer {
+  text-align: center;
+  font-size: 1rem;
+}
+
+.footer a {
+  color: var(--primary-color);
+}
+.crown {
+  color: goldenrod;
+  font-size: 1.8rem;
+}
+
 @media screen and (max-width:920px) {
   .grid {
     grid-template-columns: repeat(5, 1fr);
